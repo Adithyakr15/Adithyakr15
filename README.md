@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **programming related c, python, Web development**
 
-- 📫 How to reach me **sherigardhriti@gmail.com**
+- 📫 How to reach me **adithyakr42@gmail.com**
 
 - ⚡ Fun fact **I'm a humours extrovert**
 
