@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adithyakr15&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyakr15" /> </p>
 
-- 🔭 I’m currently working on **Photoshop**
+-🔭 I’m currently working on Photoshop
 
-- 🌱 I’m currently learning **Python and Web Development**
+-🌱 I’m currently learning Java Full Stack Development
 
-- 👯 I’m looking to collaborate on 
+-👯 I’m looking to collaborate on Java-based Web Applications and Full Stack Projects
 
-- 💬 Ask me about **programming related c, python, Web development**
+-💬 Ask me about Java, Spring Boot, HTML, CSS, JavaScript, MySQL, and Full Stack Development
 
-- 📫 How to reach me **adithyakr42@gmail.com**
+-📫 How to reach me: adithyakr42@gmail.com
 
 
 
