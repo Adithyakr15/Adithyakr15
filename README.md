@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm K R Adithya</h1> 
-<h3 align="center">Hello! I am an undergraduate student with a never ending love for programming passion for Web development. </h3>
+<h3 align="center">Hello! I am a computer science graduate with a passion for programming and a focus on creating efficient Java applications. </h3>
 <img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adithyakr15&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyakr15" /> </p>
