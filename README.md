@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm K R Adithya</h1>
-<h2 align="center">SAP ABAP Developer @ Cognizant</h2>
+<h3 align="center">SAP ABAP Developer @ Cognizant | Java & Full Stack Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9BFF&center=true&vCenter=true&width=500&lines=SAP+ABAP+Developer;
-    Java+%7C+SQL+%7C+Full+Stack+Learner;Building+Enterprise+Solutions;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9BFF&center=true&vCenter=true&width=500&lines=SAP+ABAP+Developer;Java+%7C+SQL+%7C+Full+Stack+Learner;Building+Enterprise+Solutions;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adithyakr15&label=Profile%20Views&color=2E9BFF&style=flat" alt="profile views" />
