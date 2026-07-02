@@ -38,13 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adithyakr15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyakr15&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyakr15&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adithyakr15&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
 
 <p align="left">
   <a href="(https://www.linkedin.com/in/adithyakr15/" target="_blank">
